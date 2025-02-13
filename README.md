@@ -1,1 +1,2 @@
-# predict_home_price
+# Home Price Prediction
+This project walks through step by step process of how to build a real estate price prediction. We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. During model building we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc.
